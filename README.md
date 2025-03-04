@@ -9,7 +9,7 @@ Consulta la memoria del proyecto para conocer el análisis, desarrollo y detalle
 Pagina web GitPages: [Memoria tecnica](https://proyect3-group4-6493a9.gitlab.io) 
 ### 🎥 Presentación Visual
 Explora la presentación con los aspectos destacados de la aplicación.
-[Accede al la presentacion aquí]().
+[Accede al la presentacion aquí](https://youtu.be/_yJBmi4uREk).
 ### 🧑‍💻 Código Fuente
 Repositorio GitLab: [Accede al código del proyecto aquí](https://gitlab.com/carlosmendozajimenez/proyect3_group4).
 
