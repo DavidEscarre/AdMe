@@ -6,7 +6,7 @@ AdMe es una aplicación Android desarrollada con Android Studio, Kotlin, Jetpack
 
 ### 📄 Documentación
 Consulta la memoria del proyecto para conocer el análisis, desarrollo y detalles técnicos de AdMe.
-Pagina web GitPages:[Memoria tecnica](https://proyect3-group4-6493a9.gitlab.io) 
+Pagina web GitPages: [Memoria tecnica](https://proyect3-group4-6493a9.gitlab.io) 
 ### 🎥 Presentación Visual
 Explora la presentación con los aspectos destacados de la aplicación.
 [Accede al la presentacion aquí]().
@@ -36,16 +36,17 @@ Repositorio GitLab: [Accede al código del proyecto aquí](https://gitlab.com/ca
 
 ## 👥 Equipo de Desarrollo
 Este proyecto fue desarrollado en colaboración con:
-- **David Escarre**
-- **Carlos Mendoza**
-- **Antonio Oliva**
+- [**David Escarre**](https://github.com/DavidEscarre)
+- [**Carlos Mendoza**](https://github.com/TheReaperRK)
+- [**Antonio Oliva**](https://github.com/AOliva99)
 
 ## 📬 Contacto
-Si deseas más información o colaborar en el proyecto, puedes contactarnos:
+Informacio personal adicional de contacto:
 
 📧 **Correo Electrónico:** descarre@alumnat.copernic.cat
 
-🔗 **Perfil de LinkedIn:** [David Escarre Gonzalez](#)
+🔗 **Perfil de LinkedIn:** [David Escarre Gonzalez](https://www.linkedin.com/in/davidego/)
 
-🌐 **Página Web:** [Enlace a la página web](#)
+🌐 **Página Web:** [Enlace a la página web](https://sites.google.com/alumnat.copernic.cat/davidescarregonzalez/inici?authuser=0)
+
 
